@@ -1,0 +1,18 @@
+
+        @font-face {
+            font-family: "ALS Rubl";
+            src: url("fonts/ALS-Rubl/rouble-webfont.ttf") format("ttf"),
+            url("fonts/opensans.woff") format("woff");
+            font-weight: normal;
+            font-style: normal;
+            font-display: swap;
+            }
+    
+            @font-face {
+            font-family: "Museo Sans Cyrl";
+            src: url("fonts/Museo-Sans-Cyrl/MuseoSansBlack.ttf") format("ttf"),
+            url("fonts/opensansbold.woff") format("woff");
+            font-weight: 700;
+            font-style: normal;
+            font-display: swap;
+            }
